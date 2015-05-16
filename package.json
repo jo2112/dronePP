@@ -1,0 +1,26 @@
+{
+  "name": "arDroneApplication",
+  "version": "1.0.0",
+  "description": "Server side app for tracking ar-drone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dronePP"
+  },
+  "author": "Joana Sofia Lacerda",
+  "license": "MIT",
+  "keywords": [
+    "Drone",
+    "Personal",
+    "Project"
+  ],
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ardrone-autonomy": "^0.1.2",
+    "nodecopter": "0.0.2"
+  },
+  "devDependencies": {}
+}
